@@ -54,7 +54,8 @@ plt.show()
 ```
 
 <H3>Output:</H3>
-![image](https://github.com/user-attachments/assets/7e4e2bcb-03a6-4a24-ab7f-c781b9ea002e)
+![image](https://github.com/user-attachments/assets/01c0c145-b001-4446-b96a-9ed8639c3f80)
+
 
 
 <H3>Results:</H3>
